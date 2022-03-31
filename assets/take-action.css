@@ -370,6 +370,19 @@ Take Action Styling
     justify-items: center;
 }
 
+/* Footer */
+/*footer*/
+
+footer {
+    width: 100%;
+    border-top: 5px solid black;
+    margin-top: 50px;
+}
+
+footer p {
+    font-size: 1rem;
+    text-align: center;
+}
 
 
 /*
